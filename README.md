@@ -4,4 +4,4 @@ For my report on this project, please see [this](https://docs.google.com/documen
 
 # How To Use
 
-Download the executable (a.out), then change directories on a command terminal to the executable directory, then run './a.out'
+Download the executable (a.out), then change directories on a command terminal to the executable directory, then run `./a.out`
