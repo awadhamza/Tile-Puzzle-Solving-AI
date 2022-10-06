@@ -6,6 +6,6 @@ For my report on this project, please see [this](https://docs.google.com/documen
 
 1. Download the executable (a.out).
 
-2. Next, change directories on a command terminal to the executable directory.
+2. Next, change directories on a command terminal to the (a.out) executable directory.
 
 3. Finally, run `./a.out`
